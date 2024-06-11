@@ -1,0 +1,109 @@
+job start: Fri Jun  7 01:19:07 AM CEST 2024
+Running run_ft_unsloth_1-hop_entailment.sh /gpfswork/rech/sum/ufj45ra/faithful_reasoning
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below provides pair of a set of premises and a hypothesis. Is the hypothesis entailed by the premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Premises: Alice is not passionate or Alice is querulous. Alice is undependable or Alice is stoic. Alice is not discerning. Alice is not stoic. Alice is not sharp or Alice is passionate. Alice is not stoic or Alice is shrewd. Alice is not ripped or Alice is venal. Alice is not impatient or Alice is lean. Alice is not ripped. Alice is not well-behaved or Alice is not childish. Alice is cool. Alice is shrewd or Alice is fervent. Alice is not venal. Alice is not childish or Alice is not orderly. Alice is not earnest. Alice is not shrewd. Alice is not undependable. Alice is impatient. Alice is not childish. Alice is impatient or Alice is lean. Alice is passionate or Alice is cool. Alice is gorgeous. Alice is not vulnerable or Alice is not well-behaved. Alice is not querulous or Alice is not orderly. Alice is not stoic or Alice is dynamic. Hypothesis: Alice is discerning.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+No<|eot_id|>
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below provides pair of a set of premises and a hypothesis. Is the hypothesis entailed by the premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Premises: Alice is not greasy. Alice is inconsiderate or Alice is plucky. Alice is not playful. Alice is not depressed. Alice is imperturbable or Alice is delicate. Alice is not cute or Alice is not sulky. Alice is not inconsiderate or Alice is imperturbable. Alice is not immodest or Alice is above-average. Alice is not cute or Alice is not respectful. Alice is depressed or Alice is discerning. Alice is respectful. Alice is respectful or Alice is old-fashioned. Alice is not unimaginative or Alice is immodest. Alice is not indefatigable or Alice is not delicate. Alice is not imperturbable or Alice is immodest. Alice is not above-average or Alice is sulky. Alice is not unimaginative or Alice is delicate. Alice is inconsiderate or Alice is immodest. Alice is inconsiderate or Alice is intuitive. Alice is immodest. Alice is not plucky or Alice is intuitive. Alice is passive. Alice is not cute or Alice is inconsiderate. Alice is not broad or Alice is imperturbable. Alice is depressed. Alice is not indefatigable or Alice is passive. Alice is not playful or Alice is passive. Alice is depressed or Alice is above-average. Alice is unimaginative. Alice is inconsiderate or Alice is old-fashioned. Alice is old-fashioned. Alice is delicate. Alice is plucky. Alice is not playful or Alice is not broad. Alice is not greasy or Alice is above-average. Alice is not depressed or Alice is not imperturbable. Alice is not indefatigable. Alice is sulky. Alice is not greasy or Alice is not cute. Alice is discerning. Alice is not playful or Alice is not inconsiderate. Alice is sulky or Alice is imperturbable. Alice is broad or Alice is sulky. Alice is imperturbable. Alice is above-average. Alice is not indefatigable or Alice is not playful. Alice is intuitive. Alice is not greasy or Alice is immodest. Alice is not depressed or Alice is delicate. Alice is not broad. Hypothesis: Alice is greasy.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+No<|eot_id|>
+Running run_ft_unsloth_4-hop_entailment.sh /gpfswork/rech/sum/ufj45ra/faithful_reasoning
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below provides pair of a set of premises and a hypothesis. Is the hypothesis entailed by the premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Premises: Alice is clumsy or Alice is reliable. Alice is not abnormal or Alice is handsome. Alice is not natural or Alice is not amazing. Alice is not natural or Alice is abnormal. Alice is broad. Alice is touchy. Alice is not incisive. Alice is not incisive or Alice is playful. Alice is not amazing or Alice is inactive. Alice is not interesting. Alice is not philosophical or Alice is abnormal. Alice is inactive or Alice is reliable. Alice is touchy or Alice is inspiring. Alice is not musical. Alice is not inactive or Alice is not humorous. Alice is awesome or Alice is amazing. Alice is not handsome or Alice is volcanic. Alice is volcanic or Alice is touchy. Alice is not humorous or Alice is clumsy. Alice is not inspiring or Alice is not playful. Alice is volcanic or Alice is abnormal. Alice is not playful or Alice is not agreeable. Alice is not humorous or Alice is silly. Alice is not incisive or Alice is not awesome. Alice is not undependable or Alice is not playful. Hypothesis: Alice is natural.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+No<|eot_id|>
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below provides pair of a set of premises and a hypothesis. Is the hypothesis entailed by the premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Premises: Alice is not hardworking or Alice is not plump. Alice is not drugged or Alice is stunning. Alice is quick-tempered or Alice is one-sided. Alice is not greasy or Alice is confused. Alice is not cool-headed or Alice is decisive. Alice is not demonic or Alice is jocular. Alice is slovenly or Alice is distrustful. Alice is not old-fashioned. Alice is not confused. Alice is unassuming. Alice is not balanced or Alice is striking. Alice is not broad or Alice is inspiring. Alice is not passive or Alice is not plump. Alice is not meticulous or Alice is hardworking. Alice is not dyed or Alice is not jocular. Alice is affable. Alice is witty or Alice is balanced. Alice is not cool-headed. Alice is not meticulous or Alice is broad-minded. Alice is broad or Alice is balanced. Alice is not stooped or Alice is not cool-headed. Alice is not callous or Alice is decisive. Alice is passive. Alice is cranky or Alice is meticulous. Alice is not broad. Alice is not sedate or Alice is decisive. Alice is not drugged. Alice is not leery or Alice is crafty. Alice is not striking or Alice is naive. Alice is not broad-minded or Alice is balanced. Alice is not impartial or Alice is jocular. Alice is not old-fashioned or Alice is distrustful. Alice is not greasy or Alice is meticulous. Alice is not versatile. Alice is not decisive or Alice is dreary. Alice is not old-fashioned or Alice is broad. Alice is not sociable or Alice is not broad. Alice is not crafty. Alice is careless. Alice is not greasy or Alice is not quick-tempered. Alice is not balanced or Alice is not cool-headed. Alice is not striking or Alice is not meticulous. Alice is stooped or Alice is slicked-back. Alice is not unemotional or Alice is impartial. Alice is not broad-minded or Alice is not impartial. Alice is not decisive. Alice is not inspiring. Alice is not distrustful or Alice is quick-tempered. Alice is not unemotional or Alice is one-sided. Alice is not callous. Hypothesis: Alice is plump.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+No<|eot_id|>
+Running run_ft_unsloth_1-hop_inconsistencies.sh /gpfswork/rech/sum/ufj45ra/faithful_reasoning
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below contains a set of premises. Are there two or more premises that contradict each other within these premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Alice is not big-boned or Alice is not cantankerous. Alice is not modest or Alice is not cantankerous. Alice is not quiet or Alice is able. Alice is not careless or Alice is not cantankerous. Alice is not candid or Alice is not careless. Alice is not undependable. Alice is not candid or Alice is unpopular. Alice is not big-boned or Alice is quiet. Alice is not cantankerous. Alice is not careless or Alice is able. Alice is outspoken. Alice is not modest or Alice is outspoken. Alice is able or Alice is childlike. Alice is not modest or Alice is careless. Alice is not modest. Alice is not unpopular or Alice is outspoken. Alice is not quiet or Alice is not cantankerous. Alice is not modest or Alice is not big-boned. Alice is not unpopular or Alice is quiet. Alice is not cantankerous or Alice is unpopular. Alice is not big-boned. Alice is not big-boned or Alice is careless. Alice is not big-boned or Alice is able. Alice is careless or Alice is able. Alice is careless or Alice is quiet.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+No<|eot_id|>
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below contains a set of premises. Are there two or more premises that contradict each other within these premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Alice is not gluttonous or Alice is assertive. Alice is not self-assured. Alice is tired. Alice is not orderly or Alice is unaffected. Alice is not cheerful. Alice is not imaginative or Alice is cooperative. Alice is not determined. Alice is not gluttonous or Alice is cooperative. Alice is not respected or Alice is tired. Alice is not imaginative or Alice is not unaffected. Alice is not self-assured or Alice is assertive. Alice is not deep. Alice is not dependent or Alice is not cheerful. Alice is not careful or Alice is not self-assured. Alice is not deep or Alice is assertive. Alice is not respected or Alice is experienced. Alice is not self-assured or Alice is experienced. Alice is cheerful or Alice is experienced. Alice is not orderly. Alice is not deep or Alice is unsophisticated. Alice is not obnoxious or Alice is unaffected. Alice is not experienced or Alice is not deep. Alice is unsophisticated. Alice is not determined or Alice is not deep. Alice is unaffected or Alice is careful. Alice is not obnoxious. Alice is not broad-minded. Alice is experienced. Alice is not careful or Alice is not respected. Alice is not unaffected or Alice is tired. Alice is not cheerful or Alice is tired. Alice is cooperative. Alice is not cheerful or Alice is assertive. Alice is not determined or Alice is not gluttonous. Alice is not broad-minded or Alice is unaffected. Alice is not imaginative. Alice is assertive. Alice is not imaginative or Alice is unsophisticated. Alice is not gluttonous. Alice is cooperative or Alice is dependent. Alice is not careful or Alice is not determined. Alice is not cooperative. Alice is not cooperative or Alice is not deep. Alice is not orderly or Alice is unsophisticated. Alice is careful. Alice is not dependent or Alice is careful. Alice is not creative. Alice is not respected. Alice is unaffected. Alice is not self-assured or Alice is not gluttonous.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+Yes<|eot_id|>
+Running run_ft_unsloth_4-hop_inconsistencies.sh /gpfswork/rech/sum/ufj45ra/faithful_reasoning
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below contains a set of premises. Are there two or more premises that contradict each other within these premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Alice is amusing or Alice is devoted. Alice is not average or Alice is not hysterical. Alice is not composed or Alice is impatient. Alice is not dependent or Alice is composed. Alice is not courteous or Alice is indefatigable. Alice is not sturdy or Alice is not courteous. Alice is not amusing or Alice is clean. Alice is not dependent or Alice is sturdy. Alice is not sturdy. Alice is indefatigable. Alice is proficient or Alice is responsible. Alice is not composed or Alice is not lovable. Alice is not average or Alice is indefatigable. Alice is not crabby or Alice is not composed. Alice is not crabby or Alice is not dependent. Alice is not straight or Alice is not impatient. Alice is buff or Alice is indefatigable. Alice is not lovable or Alice is not courteous. Alice is not lovable. Alice is not lovable or Alice is straight. Alice is proficient. Alice is not hysterical. Alice is not clean or Alice is buff. Alice is not amusing or Alice is not hysterical. Alice is buff.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+No<|eot_id|>
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+==((====))==  Unsloth: Fast Llama patching release 2024.5
+   \\   /|    GPU: Tesla V100-SXM2-16GB. Max memory: 15.766 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0. CUDA = 7.0. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = FALSE. Xformers = 0.0.26.post1. FA = False.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+The input below contains a set of premises. Are there two or more premises that contradict each other within these premises? Answer with yes or no only.<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+Alice is unwilling. Alice is not dainty or Alice is egotistical. Alice is not wary or Alice is dainty. Alice is sentimental or Alice is subtle. Alice is not confused or Alice is groggy. Alice is not average or Alice is not sensible. Alice is not efficient or Alice is not numb. Alice is cautious or Alice is average. Alice is unsophisticated or Alice is churlish. Alice is not wary or Alice is not great. Alice is not logical. Alice is not slim or Alice is provocative. Alice is sensible. Alice is not attractive or Alice is not careful. Alice is not realistic or Alice is not egotistical. Alice is not sentimental or Alice is affectionate. Alice is not subtle or Alice is intelligent. Alice is not affectionate. Alice is not confused or Alice is not efficient. Alice is not average or Alice is not wonderful. Alice is not soulful or Alice is straight. Alice is not unsophisticated or Alice is selfish. Alice is not curvy or Alice is not miserable. Alice is not confused. Alice is not unsophisticated. Alice is not soulful or Alice is egotistical. Alice is not calm or Alice is subtle. Alice is not sentimental or Alice is confused. Alice is not sentimental. Alice is not average or Alice is not groggy. Alice is not sentimental or Alice is not provocative. Alice is not churlish or Alice is efficient. Alice is not straight or Alice is intelligent. Alice is not realistic. Alice is not balding. Alice is cautious. Alice is not efficient or Alice is confused. Alice is intelligent. Alice is not average or Alice is not balding. Alice is not patient or Alice is miserable. Alice is not provocative. Alice is not soulful. Alice is not unwilling or Alice is not churlish. Alice is intelligent or Alice is subtle. Alice is not fair-minded. Alice is not soulful or Alice is not egotistical. Alice is straight. Alice is average. Alice is not egotistical. Alice is not soulful or Alice is not attractive.<|eot_id|><|start_header_id|>system<|end_header_id|>
+
+Yes<|eot_id|>
